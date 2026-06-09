@@ -1,6 +1,6 @@
 # Eloquent Query Classes Skill
 
-[![skills.sh](https://skills.sh/b/wendelladriel/eloquent-query-classes)](https://skills.sh/wendelladriel/eloquent-query-classes)
+[![skills.sh](https://skills.sh/b/wendelladriel/eloquent-query-classes)](https://skills.sh/wendelladriel/eloquent-query-classes/eloquent-query-classes)
 
 An AI agent skill for applying the Eloquent Query Classes pattern in Laravel applications.
 
